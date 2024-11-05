@@ -2,10 +2,6 @@
 
 Welcome to the **Real-Time Visual Question Answering** repository! This project leverages cutting-edge deep learning techniques to answer questions about visual content in real time. By combining object detection and depth estimation, it provides accurate answers to questions based on images.
 
-![Project Overview](https://github.com/user-attachments/assets/1b5624c6-fdad-47eb-825b-29b27ce8fb3b)
-
-*(The above image shows a high-level overview of the Real-Time Visual Question Answering system.)*
-
 ## 📑 Table of Contents
 - [✨ Features](#features)
 - [📥 Installation](#installation)
