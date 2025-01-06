@@ -2,8 +2,6 @@
 
 Welcome to the **Real-Time Visual Question Answering** repository! This project leverages cutting-edge deep learning techniques to answer questions about visual content in real time. By combining object detection and depth estimation, it provides accurate answers to questions based on images.
 
-<img width="922" alt="Screenshot 2025-01-06 at 10 13 42 PM" src="https://github.com/user-attachments/assets/6c01e46c-5d6a-46ec-bd53-26d50ac95906" />
-
 ## 📑 Table of Contents
 - [✨ Features](#features)
 - [📥 Installation](#installation)
@@ -61,6 +59,10 @@ Welcome to the **Real-Time Visual Question Answering** repository! This project 
 - **LLava-1.5v-13b_Predictions**: Tools and files for working with the LLava-1.5v-13b model.
 - **README.md**: Documentation for the project.
 - **real_time_vqa.py**: Main script for running VQA in real time.
+
+## ✨ Real time Testing the Model for one image after extracting the frame with less than 15 feet.
+<img width="600" alt="Screenshot 2025-01-06 at 10 13 42 PM" src="https://github.com/user-attachments/assets/e55103d1-6012-49f6-a5bf-ace389ab6c4a" height="600"/>
+<img width="922" alt="Screenshot 2025-01-06 at 10 13 42 PM" src="https://github.com/user-attachments/assets/6c01e46c-5d6a-46ec-bd53-26d50ac95906" />
 
 ## 🔍 Examples
 
